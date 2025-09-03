@@ -1,4 +1,4 @@
-# My Exercises - nej
+# My Exercises - nej2
 #
 # [Er det fredag?] (https://erdetfredag.dk)
 Useful links:
